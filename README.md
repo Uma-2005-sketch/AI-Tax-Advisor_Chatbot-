@@ -4,7 +4,7 @@ Built an NLP-powered chatbot to simplify tax compliance for Indian taxpayers
 Integrated real-time policy updates using government API feeds
 Reduced user query resolution time by 65% compared to manual research
 Indian taxpayers often find it challenging to navigate the country's complex tax system with its frequent policy updates and numerous deduction options. Without personalized guidance that remembers their financial situation, they may overpay taxes or miss legitimate deduction opportunities.
-Your task is to build an AI chatbot agent that provides guidance on Indian tax regulations, filing procedures, and optimization strategies. The agent should help users understand tax implications, identify applicable deductions, and prepare for tax filing.
+AI chatbot agent that provides guidance on Indian tax regulations, filing procedures, and optimization strategies. The agent should help users understand tax implications, identify applicable deductions, and prepare for tax filing.
 When users clear the chat and start a new conversation, the agent should recall important information from previous interactions such as income sources, investment portfolio, family status, housing situation, and previous tax planning discussions. This stored information should be combined with real-time tax regulation data to provide up-to-date guidance that reflects current Indian tax laws and recent amendments, even after the chat has been cleared.
 
 Example user queries:
